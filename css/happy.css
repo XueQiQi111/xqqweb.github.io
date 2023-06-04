@@ -51,6 +51,8 @@ nav ul li a:link, nav ul li a:visited {
 	color: #954b4b;
 	border-bottom: none;
 	font-weight: bold;
+    text-decoration: none;
+    /* 去掉超链接的下划线 */
 }
 
 /* 为内容区增加样式 */
